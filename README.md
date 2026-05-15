@@ -1,4 +1,6 @@
 # CursoSQL_OracleFoundations
+Esse repositório contem anotações de fundamentos de SQL do curso Databases for Developers: Foundations da Oracle Dev Gym.
+
 # Episódio 1: Tabelas
 
 ## 1.1 Heap Tables (Tabela Sem Índice Clusterizado)
